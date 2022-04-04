@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Nazar Simchuk and I am a Physics Student in Higher School of Economics. Currently, my fields of study are:
+My name is Nazar Simchuk, and I am a physics student at the Higher School of Economics. Currently my areas of study are as follows:
 - Quantum physics
 - Theoretical physics
 - Other physics stuff on my faculty
 
-As I am working in free time as a programmer, I am interested in:
+Since I work in free time as a programmer, I am interested in:
 - Frontend ✨
 - Next.js 🔽
 - React ⚛️
