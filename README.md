@@ -25,6 +25,5 @@ Since I work in free time as a programmer, I am interested in:
 - Next.js 🔽
 - React ⚛️
 - Svelte 📙
-- Firebase 🔥
-- Prisma 🛆
+- PrismaORM 🛆
 - AI and ML 🤖
