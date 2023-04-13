@@ -20,7 +20,7 @@ My name is Nazar Simchuk, and I am a physics student at the Higher School of Eco
 - Theoretical physics
 - Other physics stuff on my faculty
 
-Since I work in free time as a programmer, I am interested in:
+Since in free-time I study programming my areas of interest are:
 - Frontend ✨
 - Next.js 🔽
 - React ⚛️
