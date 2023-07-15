@@ -21,9 +21,10 @@ My name is Nazar Simchuk, and I am a physics student at the Higher School of Eco
 - Other physics stuff on my faculty
 
 Since in free-time I study programming my areas of interest are:
-- Frontend ✨
-- Next.js 🔽
-- React ⚛️
-- Svelte 📙
-- PrismaORM 🛆
-- AI and ML 🤖
+- Nest.js 
+- Next.js 
+- React 
+- Svelte
+- Vite 
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazar-si&layout=donut-vertical&hide=jupyter%20notebook)
